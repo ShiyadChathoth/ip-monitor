@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local App Data (Do not push private server IPs to GitHub!)
+ips.json
+ip_history.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
