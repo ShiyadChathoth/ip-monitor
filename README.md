@@ -13,7 +13,7 @@ A lightweight, Linux-based desktop application to monitor network devices, track
 Run the following commands in your Linux terminal to clone the repository and install the desktop application:
 
 ```bash
-git clone [https://github.com/ShiyadChathoth/ip-monitor.git](https://github.com/ShiyadChathoth/ip-monitor.git)
+git clone https://github.com/ShiyadChathoth/ip-monitor.git
 cd ip-monitor
 chmod +x install.sh
 ./install.sh
